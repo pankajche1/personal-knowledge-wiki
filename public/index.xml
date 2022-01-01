@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Knowledge Wiki</title><link>http://example.org/</link><description>Recent content on Personal Knowledge Wiki</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>article 1</title><link>http://example.org/articles/test-hugo-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/test-hugo-01/</guid><description>Title article Write something here</description></item><item><title>article 2</title><link>http://example.org/articles/subject1/article-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/subject1/article-02/</guid><description>Article 2 Write something here</description></item><item><title>from org</title><link>http://example.org/posts/building-a-site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/posts/building-a-site/</guid><description>build a site Ref: https://gohugo.io/getting-started/quick-start/
+Go to the folder where you want to create your site.
+I go to /home/pankaj/project/hugo/ for this
+And run this from that folder:
+hugo new site pankaj_site
+And a folder is created:
+This dir structure is created:
+Create the first content:
+Here the first content is created:
+Now, start the Hugo server with drafts enabled:
+hugo server -D
+but the browser gave nothing.</description></item><item><title>how judgments happen</title><link>http://example.org/posts/20211231172025-how_judgments_happen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/posts/20211231172025-how_judgments_happen/</guid><description>:ID: 3eac89c6-7509-4cb5-bdac-6840218ceb94
+Book: Daniel Kahneman: Thinking fast and slow, Chapter: 08 How Judgments Happen, page: 89
+Introduction There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself. Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on this page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous.</description></item><item><title>Hugo index</title><link>http://example.org/articles/hugo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/hugo/</guid><description>Index Build a site some thing</description></item></channel></rss>

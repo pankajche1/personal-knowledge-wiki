@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinking Fast and Slow on Personal Knowledge Wiki</title>
+    <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</link>
+    <description>Recent content in Thinking Fast and Slow on Personal Knowledge Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/subjects/productivity/books/thinking-fast-and-slow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 13: Availability, Emotion and Risk</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</guid>
+      <description>larger heading second larger smaller heading bold
+italic italic
+&amp;lt; quoted text</description>
+    </item>
+    
+    <item>
+      <title>Chapter 15: Linda: less in more</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</guid>
+      <description>In the language of this book, we had observed a failure of System 2: our participants had a fair opportunity to detect the relevance of the logical rule, since both outcomes were included in the same ranking. They did not take advantage of that opportunity. When we extended the experiment, we found that 89% of the undergraduates in our sample violated the logic of probability. We were convinced that statistically sophisticated respondents would do better, so we administered the same questionnaire to doctoral students in the decision-science program of the Stanford Graduate School of Business, all of whom had taken several advanced courses in probability, statistics, and decision theory.</description>
+    </item>
+    
+  </channel>
+</rss>

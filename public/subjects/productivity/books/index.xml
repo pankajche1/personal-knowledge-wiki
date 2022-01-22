@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Personal Knowledge Wiki</title>
+    <link>http://example.org/subjects/productivity/books/</link>
+    <description>Recent content in books on Personal Knowledge Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/subjects/productivity/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test this file in books</title>
+      <link>http://example.org/subjects/productivity/books/test_books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/test_books/</guid>
+      <description>inside you will find some great books for life improvement
+for example so many books
+ book1 book2 book3 book4  </description>
+    </item>
+    
+  </channel>
+</rss>

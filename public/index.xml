@@ -1,14 +1,142 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Knowledge Wiki</title><link>http://example.org/</link><description>Recent content on Personal Knowledge Wiki</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>article 1</title><link>http://example.org/articles/test-hugo-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/test-hugo-01/</guid><description>Title article Write something here</description></item><item><title>article 2</title><link>http://example.org/articles/subject1/article-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/subject1/article-02/</guid><description>Article 2 Write something here</description></item><item><title>from org</title><link>http://example.org/posts/building-a-site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/posts/building-a-site/</guid><description>build a site Ref: https://gohugo.io/getting-started/quick-start/
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Knowledge Wiki</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Personal Knowledge Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 12:23:47 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/pages/about/</link>
+      <pubDate>Sat, 01 Jan 2022 12:23:47 +0530</pubDate>
+      
+      <guid>http://example.org/pages/about/</guid>
+      <description>Hello, this is an About Page!</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 31 Dec 2021 20:36:18 +0530</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Can you write something here?  Now what?
+this is bold
+this is
+but now the question is how to put links in this page?</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Fri, 31 Dec 2021 20:36:18 +0530</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>Can you write something here?  Now what?
+this is bold
+this is
+but now the question is how to put links in this page?</description>
+    </item>
+    
+    <item>
+      <title>article 1</title>
+      <link>http://example.org/articles/test-hugo-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/test-hugo-01/</guid>
+      <description>Title article Write something here</description>
+    </item>
+    
+    <item>
+      <title>article 2</title>
+      <link>http://example.org/articles/subject1/article-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/subject1/article-02/</guid>
+      <description>Article 2 Write something here</description>
+    </item>
+    
+    <item>
+      <title>Chapter 13: Availability, Emotion and Risk</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</guid>
+      <description>larger heading second larger smaller heading bold
+italic italic
+&amp;lt; quoted text</description>
+    </item>
+    
+    <item>
+      <title>Chapter 15: Linda: less in more</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</guid>
+      <description>In the language of this book, we had observed a failure of System 2: our participants had a fair opportunity to detect the relevance of the logical rule, since both outcomes were included in the same ranking. They did not take advantage of that opportunity. When we extended the experiment, we found that 89% of the undergraduates in our sample violated the logic of probability. We were convinced that statistically sophisticated respondents would do better, so we administered the same questionnaire to doctoral students in the decision-science program of the Stanford Graduate School of Business, all of whom had taken several advanced courses in probability, statistics, and decision theory.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1: introduction</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch01/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch01/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>from org</title>
+      <link>http://example.org/posts/building-a-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/building-a-site/</guid>
+      <description>build a site Ref: https://gohugo.io/getting-started/quick-start/
 Go to the folder where you want to create your site.
 I go to /home/pankaj/project/hugo/ for this
 And run this from that folder:
 hugo new site pankaj_site
-And a folder is created:
-This dir structure is created:
-Create the first content:
-Here the first content is created:
-Now, start the Hugo server with drafts enabled:
+ And a folder is created:
+ This dir structure is created:
+ Create the first content:
+ Here the first content is created:
+ Now, start the Hugo server with drafts enabled:
 hugo server -D
-but the browser gave nothing.</description></item><item><title>how judgments happen</title><link>http://example.org/posts/20211231172025-how_judgments_happen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/posts/20211231172025-how_judgments_happen/</guid><description>:ID: 3eac89c6-7509-4cb5-bdac-6840218ceb94
+ but the browser gave nothing.</description>
+    </item>
+    
+    <item>
+      <title>how judgments happen</title>
+      <link>http://example.org/posts/20211231172025-how_judgments_happen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/20211231172025-how_judgments_happen/</guid>
+      <description>:ID: 3eac89c6-7509-4cb5-bdac-6840218ceb94
 Book: Daniel Kahneman: Thinking fast and slow, Chapter: 08 How Judgments Happen, page: 89
-Introduction There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself. Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on this page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous.</description></item><item><title>Hugo index</title><link>http://example.org/articles/hugo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/articles/hugo/</guid><description>Index Build a site some thing</description></item></channel></rss>
+Introduction There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself. Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on this page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous.</description>
+    </item>
+    
+    <item>
+      <title>Hugo index</title>
+      <link>http://example.org/articles/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/hugo/</guid>
+      <description>Index  Build a site some thing  </description>
+    </item>
+    
+    <item>
+      <title>test this file in books</title>
+      <link>http://example.org/subjects/productivity/books/test_books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/test_books/</guid>
+      <description>inside you will find some great books for life improvement
+for example so many books
+ book1 book2 book3 book4  </description>
+    </item>
+    
+  </channel>
+</rss>

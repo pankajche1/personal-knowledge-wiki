@@ -8,7 +8,7 @@ theme = "ananke"
   identifier = 'about'
   name = 'about hugo'
   pre = "<i class='fa fa-heart'></i>"
-  url = '/articles/'
+  url = '/pages/'
   weight = -110
 [[menu.main]]
   name = 'getting started'
@@ -16,3 +16,10 @@ theme = "ananke"
   pre = "<i class='fa fa-road'></i>"
   url = '/getting-started/'
   weight = -100
+[[menu.main]]
+  name = 'Productivity'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/subjects/productivity/'
+  weight = -100
+

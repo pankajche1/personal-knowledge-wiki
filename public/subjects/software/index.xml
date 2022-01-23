@@ -6,5 +6,17 @@
     <description>Recent content on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/subjects/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo: Static site building</title>
+      <link>http://example.org/subjects/software/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/software/hugo/</guid>
+      <description>Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
+$ hugo -D  uploading to github.com First add the updated work into local git
+$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
+$ git push -u origin master  The above will ask you your username and password.</description>
+    </item>
+    
   </channel>
 </rss>

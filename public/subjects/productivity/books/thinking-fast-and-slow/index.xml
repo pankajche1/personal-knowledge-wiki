@@ -12,9 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</guid>
-      <description>larger heading second larger smaller heading bold
-italic italic
-&amp;lt; quoted text</description>
+      <description></description>
     </item>
     
     <item>
@@ -24,6 +22,17 @@ italic italic
       
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</guid>
       <description>In the language of this book, we had observed a failure of System 2: our participants had a fair opportunity to detect the relevance of the logical rule, since both outcomes were included in the same ranking. They did not take advantage of that opportunity. When we extended the experiment, we found that 89% of the undergraduates in our sample violated the logic of probability. We were convinced that statistically sophisticated respondents would do better, so we administered the same questionnaire to doctoral students in the decision-science program of the Stanford Graduate School of Business, all of whom had taken several advanced courses in probability, statistics, and decision theory.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 16: Causes and Trump Statistics</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch16/causes-trump-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch16/causes-trump-statistics/</guid>
+      <description>Introduction Consider the following scenario and note your intuitive answer to the question.
+ A cab was involved in a hit-and-run accident at night. Two cab companies, the Green and the Blue, operate in the city. You are given the following data:
+  85% of the cabs in the city are Green and 15% are Blue. A witness identified the cab as Blue. The court tested the reliability of the witness under the circumstances that existed on the night of the accident and concluded that the witness correctly identified each one of the two colors 80% of the time and failed 20% of the time.</description>
     </item>
     
   </channel>

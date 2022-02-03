@@ -5,7 +5,46 @@
     <link>http://example.org/subjects/software/</link>
     <description>Recent content on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/subjects/software/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 15:36:09 +0530</lastBuildDate><atom:link href="http://example.org/subjects/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Hugo Content</title>
+      <link>http://example.org/subjects/software/hugo/creating-content/</link>
+      <pubDate>Thu, 03 Feb 2022 15:36:09 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/software/hugo/creating-content/</guid>
+      <description>The content stuff is put in this folder in a hugo site:
+ This is the structure of the inside of the content folder:
+ The above folders inside the content folder can be created manually or by command.
+for example if you want to create a file test.md in a new folder mydir1, then:
+$ hugo new mydir1/test.md   Now suppose you want to add a new file to the mydir1 folder:</description>
+    </item>
+    
+    <item>
+      <title>Configuring Apache Web server</title>
+      <link>http://example.org/subjects/software/apache-web-server/configuring/</link>
+      <pubDate>Thu, 03 Feb 2022 15:30:00 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/software/apache-web-server/configuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache web server: Basics</title>
+      <link>http://example.org/subjects/software/apache-web-server/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/software/apache-web-server/basics/</guid>
+      <description>what is Ref: https://www.guru99.com/apache.html
+Q: What is virtual host?
+Ans:
+An Apache web server can host multiple websites on the SAME server. You do not need separate server machine and apache software for each website. This can achieved using the concept of Virtual Host or VHost.
+key: Host, Virtual host, VHost
+Q: What is VHost?
+Ans: VHost = Virtual Host
+Q: How multiple sites are configured on a single web server host?</description>
+    </item>
+    
     <item>
       <title>Hugo: Static site building</title>
       <link>http://example.org/subjects/software/hugo/</link>
@@ -14,8 +53,8 @@
       <guid>http://example.org/subjects/software/hugo/</guid>
       <description>Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
 $ hugo -D  uploading to github.com First add the updated work into local git
-$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
-$ git push -u origin master  The above will ask you your username and password.</description>
+$ git add . $ git commit -m &#39;some comment&#39;  Add your site folder to github. (Note: you have to do this only once)
+$ git remote add origin https://github.</description>
     </item>
     
   </channel>

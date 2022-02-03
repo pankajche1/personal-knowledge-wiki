@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/mydir1/</loc>
+    <lastmod>2022-02-03T15:50:57+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-02-03T15:50:57+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/mydir1/test1/</loc>
+    <lastmod>2022-02-03T15:50:57+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/mydir1/test/</loc>
+    <lastmod>2022-02-03T15:48:00+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/software/</loc>
+    <lastmod>2022-02-03T15:36:09+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/software/hugo/creating-content/</loc>
+    <lastmod>2022-02-03T15:36:09+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-02-03T15:36:09+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/software/apache-web-server/configuring/</loc>
+    <lastmod>2022-02-03T15:30:00+05:30</lastmod>
+  </url><url>
     <loc>http://example.org/pages/about/</loc>
     <lastmod>2022-01-01T12:23:47+05:30</lastmod>
   </url><url>
     <loc>http://example.org/pages/</loc>
-    <lastmod>2022-01-01T12:23:47+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
     <lastmod>2022-01-01T12:23:47+05:30</lastmod>
   </url><url>
     <loc>http://example.org/posts/my-first-post/</loc>
@@ -22,7 +43,7 @@
   </url><url>
     <loc>http://example.org/subjects/che/</loc>
   </url><url>
-    <loc>http://example.org/subjects/software/</loc>
+    <loc>http://example.org/subjects/software/apache-web-server/basics/</loc>
   </url><url>
     <loc>http://example.org/articles/test-hugo-01/</loc>
   </url><url>
@@ -53,8 +74,6 @@
     <loc>http://example.org/subjects/software/hugo/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url><url>

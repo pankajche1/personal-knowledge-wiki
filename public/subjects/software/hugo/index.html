@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
 $ hugo -D  uploading to github.com First add the updated work into local git
-$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
-$ git push -u origin master  The above will ask you your username and password.">
+$ git add . $ git commit -m &#39;some comment&#39;  Add your site folder to github. (Note: you have to do this only once)
+$ git remote add origin https://github.">
     <meta name="generator" content="Hugo 0.87.0" />
     
     
@@ -33,8 +33,8 @@ $ git push -u origin master  The above will ask you your username and password."
     <meta property="og:title" content="Hugo: Static site building" />
 <meta property="og:description" content="Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
 $ hugo -D  uploading to github.com First add the updated work into local git
-$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
-$ git push -u origin master  The above will ask you your username and password." />
+$ git add . $ git commit -m &#39;some comment&#39;  Add your site folder to github. (Note: you have to do this only once)
+$ git remote add origin https://github." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://example.org/subjects/software/hugo/" /><meta property="article:section" content="subjects" />
 
@@ -43,16 +43,16 @@ $ git push -u origin master  The above will ask you your username and password."
 <meta itemprop="name" content="Hugo: Static site building">
 <meta itemprop="description" content="Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
 $ hugo -D  uploading to github.com First add the updated work into local git
-$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
-$ git push -u origin master  The above will ask you your username and password.">
+$ git add . $ git commit -m &#39;some comment&#39;  Add your site folder to github. (Note: you have to do this only once)
+$ git remote add origin https://github.">
 
-<meta itemprop="wordCount" content="194">
+<meta itemprop="wordCount" content="302">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo: Static site building"/>
 <meta name="twitter:description" content="Starting the server $ hugo server -D  Building the public html pages folder: First delete the already existing public folder, then run this command:
 $ hugo -D  uploading to github.com First add the updated work into local git
-$ git add . $ git commit -m &#39;some comment&#39;  Now run the command to upload to github
-$ git push -u origin master  The above will ask you your username and password."/>
+$ git add . $ git commit -m &#39;some comment&#39;  Add your site folder to github. (Note: you have to do this only once)
+$ git remote add origin https://github."/>
 
 	
   </head>
@@ -162,7 +162,14 @@ $ git push -u origin master  The above will ask you your username and password."
 <pre><code>$ git add .
 $ git commit -m 'some comment'
 </code></pre>
-<p>Now run the command to upload to github</p>
+<p>Add your site folder to github. (<strong>Note:</strong> you have to do this only once)</p>
+<pre><code>$ git remote add origin https://github.com/myusername/my-repo.git
+</code></pre>
+<p>The above repository <code>my-repo</code> is first is to be created on the github site. and then you can paste address of this in the above line</p>
+<blockquote>
+<p>https://github/myusername/my-repo.git</p>
+</blockquote>
+<p>Now run the command to upload to github (<strong>Note:</strong> only the following command is to be run for uploading the updated contents:)</p>
 <pre><code>$ git push -u origin master
 </code></pre>
 <p>The above will ask you your <code>username</code> and <code>password</code>.</p>
@@ -182,6 +189,11 @@ $ git commit -m 'some comment'
 </figure>
 
 <p>In the above just tick the <code>repo</code> checkbox only. If you leave the checkbox empty then you will not be able to upload your stuff with the new token.</p>
+<p>Now, go to <code>render.com</code> site. Then, to DASHBOARD. If not signed in then sign in with your google account. <strong>Note:</strong> But you don&rsquo;t have to anything on this site to deploy your recently uploaded stuff on github. It automatically updates the stuff</p>
+<p>Your site name is:</p>
+<blockquote>
+<p>pkw.onrender.com</p>
+</blockquote>
 <ul class="pa0">
   
 </ul>

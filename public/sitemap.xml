@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/subjects/management/books/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+  </url><url>
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch02/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/</loc>
     <lastmod>2022-02-18T20:00:22+05:30</lastmod>
   </url><url>
     <loc>http://example.org/</loc>

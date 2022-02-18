@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/mydir1/</loc>
-    <lastmod>2022-02-03T15:50:57+05:30</lastmod>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch02/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/mydir1/</loc>
     <lastmod>2022-02-03T15:50:57+05:30</lastmod>
   </url><url>
     <loc>http://example.org/mydir1/test1/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2022-02-03T15:36:09+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/software/hugo/creating-content/</loc>
-    <lastmod>2022-02-03T15:36:09+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/</loc>
     <lastmod>2022-02-03T15:36:09+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/software/apache-web-server/configuring/</loc>

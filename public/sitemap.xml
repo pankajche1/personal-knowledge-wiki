@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/subjects/management/books/</loc>
-    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch02/</loc>
-    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch04-the-human-side-of-an-export-enterprise/</loc>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/</loc>
-    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/management/</loc>
-    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-02-18T20:00:22+05:30</lastmod>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch03-prepping-for-export/</loc>
+    <lastmod>2022-02-20T22:14:50+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch02/</loc>
     <lastmod>2022-02-18T20:00:22+05:30</lastmod>
   </url><url>
     <loc>http://example.org/mydir1/</loc>

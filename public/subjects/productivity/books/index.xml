@@ -5,7 +5,8 @@
     <link>http://example.org/subjects/productivity/books/</link>
     <description>Recent content in books on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/subjects/productivity/books/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 18:36:24 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test this file in books</title>
       <link>http://example.org/subjects/productivity/books/test_books/</link>

@@ -5,6 +5,7 @@
     <link>http://example.org/subjects/productivity/</link>
     <description>Recent content in Productivity Knowledge Base on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/subjects/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 18:36:24 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

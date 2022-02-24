@@ -2,34 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/subjects/management/books/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/chapter-5-online-fundamentals/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/management/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-02-24T19:48:29+05:30</lastmod>
+  </url><url>
     <loc>http://example.org/subjects/productivity/books/</loc>
     <lastmod>2022-02-22T18:36:24+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch17/ch17-regression-to-the-mean/</loc>
     <lastmod>2022-02-22T18:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-02-22T18:36:24+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/subjects/productivity/</loc>
-    <lastmod>2022-02-22T18:36:24+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/</loc>
     <lastmod>2022-02-22T18:36:24+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
     <lastmod>2022-02-22T18:36:24+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/management/books/</loc>
-    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch04-the-human-side-of-an-export-enterprise/</loc>
-    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/</loc>
-    <lastmod>2022-02-21T19:16:16+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/management/</loc>
     <lastmod>2022-02-21T19:16:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch03-prepping-for-export/</loc>

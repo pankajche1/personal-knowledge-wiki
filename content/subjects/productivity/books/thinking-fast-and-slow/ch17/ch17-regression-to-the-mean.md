@@ -35,40 +35,21 @@ This was a joyous moment of insight, when I saw in a new light a principle of st
 **Q:** What was the result of the above practical lesson?    
 **Ans:**  poor performance was typically followed by improvement and good performance by deterioration, without any help from either praise or punishment. (It was chance that poor performance was followed by improvement and good performance by deterioration)
 
+**Punishment was actually ineffective. Poor performance was followed by good performance by chance:**
 
-TODO: [2022-02-22 Tue 19:38] 
-
-The discovery I made on that day was that the flight instructors were
-trapped in an unfortunate contingency: because they punished cadets
-when performance was poor, they were mostly rewarded by a subsequent
-improvement, even if punishment was actually ineffective. Furthermore, the
-instructors were not alone in that predicament. I had stumbled onto a
-significant fact of the human condition: the feedback to which life exposes
-us is perverse. Because we tend to be nice to other people when they
-please us and nasty when they do not, we are statistically punished for
-being nice and rewarded for being nasty.
+The discovery I made on that day was that the flight instructors were trapped in an unfortunate contingency: because they punished cadets when performance was poor, they were mostly rewarded by a subsequent improvement, even if punishment was actually ineffective. Furthermore, the instructors were not alone in that predicament. I had stumbled onto a significant fact of the human condition: the feedback to which life exposes us is perverse. Because we tend to be nice to other people when they please us and nasty when they do not, we are statistically punished for being nice and rewarded for being nasty.
 
 ### Talent and Luck
 
-A few years ago, John Brockman, who edits the online magazine Edge,
-asked a number of scientists to report their “favorite equation.” These were
+A few years ago, John Brockman, who edits the online magazine Edge, asked a number of scientists to report their “favorite equation.” These were
 my offerings:
 
 > success = talent + luck    
 > great success = a little more talent + a lot of luck
 
-The unsurprising idea that luck often contributes to success has surprising
-consequences when we apply it to the first two days of a high-level golf
-tournament. To keep things simple, assume that on both days the average
-score of the competitors was at par 72. We focus on a player who did
-very  well on the first day, closing with a score of 66. What can we learn
-from that excellent score? An immediate inference is that the golfer is
-more talented than the average participant in the tournament. The formula
-for success suggests that another inference is equally justified: the golfer
-who did so well on day 1 probably enjoyed better-than-average luck on that
-day. If you accept that talent and luck both contribute to success, the
-conclusion that the successful golfer was lucky is as warranted as the
-conclusion that he is talented.
+The unsurprising idea that luck often contributes to success has surprising consequences when we apply it to the first two days of a high-level golf tournament. To keep things simple, assume that on both days the average score of the competitors was at par 72. We focus on a player who did
+very  well on the first day, closing with a score of 66. What can we learn from that excellent score? An immediate inference is that the golfer is
+more talented than the average participant in the tournament. The formula for success suggests that another inference is equally justified: the golfer who did so well on day 1 probably enjoyed better-than-average luck on that day. If you accept that talent and luck both contribute to success, the conclusion that the successful golfer was lucky is as warranted as the conclusion that he is talented.
 
 By the same token, if you focus on a player who scored 5 over par on
 that day, you have reason to infer both that he is rather weak and had a
@@ -84,15 +65,7 @@ correct more often than they are wrong.
 
 > below-average score on day 1 = below-average talent + unlucky on day 1
 
-Now, suppose you know a golfer’s score on day 1 and are asked to
-predict his score on day 2. You expect the golfer to retain the same level of
-talent on the second day, so your best guesses will be “above average” for
-the first player and “below average” for the second player. Luck, of course,
-is a different matter. Since you have no way of predicting the golfers’ luck
-on the second (or any) day, your best guess must be that it will be average,
-neither good nor bad. This means that in the absence of any other
-information, your best guess about the players’ score on day 2 should not
-be a repeat of their performance on day 1. This is the most you can say:
+Now, suppose you know a golfer’s score on day 1 and are asked to predict his score on day 2. You expect the golfer to retain the same level of talent on the second day, so your best guesses will be “above average” for the first player and “below average” for the second player. Luck, of course, is a different matter. Since you have no way of predicting the golfers’ luck on the second (or any) day, your best guess must be that it will be average, neither good nor bad. This means that in the absence of any other information, your best guess about the players’ score on day 2 should not be a repeat of their performance on day 1. This is the most you can say:
 
 - The golfer who did well on day 1 is likely to be successful on day 2 as well, but less than on the first, because the unusual luck he probably enjoyed on day 1 is unlikely to hold.
 - The golfer who did poorly on day 1 will probably be below average on day 2, but will improve, because his probable streak of bad luck is not likely to continue.
@@ -102,4 +75,78 @@ better than the second.
 
 My students were always surprised to hear that the best predicted performance on day 2 is more moderate, closer to the average than the evidence on which it is based (the score on day 1). This is why the pattern is called regression to the mean. The more extreme the original score, the more regression we expect, because an extremely good score suggests a very lucky day. The regressive prediction is reasonable, but its accuracy is not guaranteed. A few of the golfers who scored 66 on day 1 will do even better on the second day, if their luck improves. Most will do worse, because their luck will no longer be above average.
 
+**Q:** Why the above pattern is called *regression to the mean*?    
+**Ans:** 
 
+> See the meaning of this word
+
+> regression = (noun) = (to sth) the process of going back to an earlier or less advanced form or state.
+
+> Example: He began to show signs of regression to his childhood.
+
+Now let us go against the time arrow. Arrange the players by their performance on day 2 and look at their performance on day 1. You will find
+precisely the same pattern of *regression to the mean*. The golfers who did best on day 2 were probably lucky on that day, and the best guess is that they had been less lucky and had done less well on day 1. The fact that you observe regression when you predict an early event from a later event should help convince you that regression does not have a causal explanation.
+
+**Exceptionally well performances may be by luck**
+
+Regression effects are ubiquitous, and so are misguided causal stories to explain them. A well-known example is the “ *Sports Illustrated jinx* ,” the claim that an athlete whose picture appears on the cover of the magazine is doomed to perform poorly the following season. Overconfidence and the pressure of meeting high expectations are often offered as explanations. But there is a simpler account of the jinx: an athlete who gets to be on the cover of Sports Illustrated must have performed exceptionally well in the preceding season, probably with the assistance of a nudge from luck—and luck is fickle.
+
+I happened to watch the men’s ski jump event in the Winter Olympics while Amos and I were writing an article about intuitive prediction. Each
+athlete has two jumps in the event, and the results are combined for the final score. I was startled to hear the sportscaster’s comments while
+athletes were preparing for their second jump: 
+
+- “Norway had a great first jump; he will be tense, hoping to protect his lead and will probably do worse”
+- or “Sweden had a bad first jump and now he knows he has nothing to lose and will be relaxed, which should help him do better.” 
+
+The commentator had obviously detected regression to the mean and had invented a causal story for which there was no evidence. The story itself
+could even be true. Perhaps if we measured the athletes’ pulse before each jump we might find that they are indeed more relaxed after a bad first
+jump. And perhaps not. The point to remember is that the change from the first to the second jump does not need a causal explanation. It is a
+mathematically inevitable consequence of the fact that luck played a role in the outcome of the first jump. Not a very satisfactory story — we would all prefer a causal account — but that is all there is.
+
+### Understanding Regression
+
+Whether undetected or wrongly explained, the phenomenon of regression is strange to the human mind. So strange, indeed, that it was first identified and understood two hundred years after the theory of gravitation and differential calculus. Furthermore, it took one of the best minds of nineteenth-century Britain to make sense of it, and that with great difficulty.
+
+Regression to the mean was discovered and named late in the neteenth-century Britain to make sense of it, and that with great difficulty. Regression to the mean was discovered and named late in the nineteenth century by Sir Francis Galton, a half cousin of Charles Darwin and a renowned polymath. You can sense the thrill of discovery in an article he published in 1886 under the title “Regression towards Mediocrity in Hereditary Stature,” which reports measurements of size in successive generations of seeds and in comparisons of the height of children to the height of their parents. He writes about his studies of seeds:
+
+> They yielded results that seemed very noteworthy, and I used them as the basis of a lecture before the Royal Institution on February 9th, 1877. It appeared from these experiments that the offspring did not tend to resemble their parent seeds in size, but to be always more mediocre than they—to be smaller than the parents, if the parents were large; to be larger than the parents, if the parents were very small…The experiments showed further that the mean filial regression towards mediocrity was directly proportional to the parental deviation from it. (My Notes: If father is very tall then son will be shorter. This way average height is maintained in human population.)
+
+> **filial**
+
+> (adjective) = (formal) connected with the way children behave towards their parents.
+
+> - filial affection / duty
+
+lingo: Human height shows regression towards the average height in a society.
+
+**Regression effects are found wherever we look, but we do not recognize them:**
+
+Galton obviously expected his learned audience at the Royal Institution — the oldest independent research society in the world—to be as surprised
+by his “noteworthy observation” as he had been. What is truly noteworthy is that he was surprised by a statistical regularity that is as common as the air we breathe. Regression effects can be found wherever we look, but we do not recognize them for what they are. They hide in plain sight. It took Galton several years to work his way from his discovery of filial regression in size to the broader notion that regression inevitably occurs when the correlation between two measures is less than perfect, and he needed the help of the most brilliant statisticians of his time to reach that conclusion.
+
+One of the hurdles Galton had to overcome was the problem of measuring regression between variables that are measured on different scales, such as weight and piano playing. This is done by using the population as a standard of reference. Imagine that weight and piano playing have been measured for 100 children in all grades of an elementary school, and that they have been ranked from high to low on each measure. If Jane ranks third in piano playing and twenty-seventh in weight, it is appropriate to say that she is a better pianist than she is tall.
+
+Let us make some assumptions that will simplify things:
+
+At any age,
+
+- Piano-playing success depends only on weekly hours of practice.
+- Weight depends only on consumption of ice cream.
+- Ice cream consumption and weekly hours of practice are unrelated.
+
+Now, using ranks (or the standard scores that statisticians prefer), we can write some equations:
+
+> weight = age + ice cream consumption
+
+> piano playing = age + weekly hours of practice
+
+You can see that there will be regression to the mean when we predict piano playing from weight, or vice versa. If all you know about Tom is that
+he ranks twelfth in weight (well above average), you can infer (statistically) that he is probably older than average and also that he probably consumes more ice cream than other children. If all you know about Barbara is that she is eighty-fifth in piano (far below the average of the group), you can infer that she is likely to be young and that she is likely to practice less than most other children.
+
+The *correlation coefficient* between two measures, which varies between 0 and 1, is a measure of the relative weight of the factors they share. For example, we all share half our genes with each of our parents, and for traits in which environmental factors have relatively little influence, such as height, the correlation between parent and child is not far from .50. To appreciate the meaning of the correlation measure, the following are some examples of coefficients:
+
+- The correlation between the size of objects measured with precision in English or in metric units is 1. Any factor that influences one measure also influences the other; 100% of determinants are shared.
+- The correlation between self-reported height and weight among adult American males is .41. If you included women and children, the correlation would be much higher, because individuals’ gender and age influence both their height and their weight, boosting the relative weight of shared factors.
+- The correlation between SAT scores and college GPA is approximately .60. However, the correlation between aptitude tests and success in graduate school is much lower, largely because measured aptitude varies little in this selected group. If everyone has similar aptitude, differences in this measure are unlikely to play a large role in measures of success.
+- The correlation between income and education level in the United States is approximately .40.
+- The correlation between family income and the last four digits of their phone number is 0.

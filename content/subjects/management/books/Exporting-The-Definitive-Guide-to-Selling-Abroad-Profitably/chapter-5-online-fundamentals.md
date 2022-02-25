@@ -54,3 +54,17 @@ related to the action you’d like your visitors to take.
 5. *Review sites you like, bookmark them, and try to incorporate the best elements of each on your site*. I’ve done this many times for ideas on my own company Web site. I see something I like at another Web site and send the link to my designer to see if she can do something similar but
 distinct enough that it does not look like we are stealing or copying information from the other company. If you sell jewelry, what are the most popular jewelry sites and why? Use these ideas as a basis or model for developing your own Web site.
 
+
+[2022-02-25 Fri 21:54] 
+
+TODO: process the middle portion of this chapter
+
+
+### Summary
+
+Don’t let your Web site or blog be doomed to mediocrity. Make it sing. Preferably, make it sing a song the world relates to. Impart your knowledge
+and share your passion with the world. Next, I will coach you on how to create a social media and social networking presence where the whole world
+will find you.
+
+
+

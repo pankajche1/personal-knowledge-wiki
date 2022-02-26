@@ -150,3 +150,80 @@ The *correlation coefficient* between two measures, which varies between 0 and 1
 - The correlation between SAT scores and college GPA is approximately .60. However, the correlation between aptitude tests and success in graduate school is much lower, largely because measured aptitude varies little in this selected group. If everyone has similar aptitude, differences in this measure are unlikely to play a large role in measures of success.
 - The correlation between income and education level in the United States is approximately .40.
 - The correlation between family income and the last four digits of their phone number is 0.
+
+**Correlation and regression are not two concepts**
+
+It took Francis Galton several years to figure out that correlation and regression are not two concepts—they are different perspectives on the
+same concept. The general rule is straightforward but has surprising consequences: whenever the correlation between two scores is imperfect, there will be regression to the mean. To illustrate Galton’s insight, take a proposition that most people find quite interesting:
+
+> Highly intelligent women tend to marry men who are less intelligent than they are.
+
+You can get a good conversation started at a party by asking for an explanation, and your friends will readily oblige. Even people who have had
+some exposure to statistics will spontaneously interpret the statement in causal terms. Some may think of highly intelligent women wanting to avoid the competition of equally intelligent men, or being forced to compromise in their choice of spouse because intelligent men do not want to compete with intelligent women. More far-fetched explanations will come up at a good party. Now consider this statement:
+
+> The correlation between the intelligence scores of spouses is less than perfect.
+
+This statement is obviously true and not interesting at all. Who would expect the correlation to be perfect? There is nothing to explain. But the
+statement you found interesting and the statement you found trivial are algebraically equivalent. If the correlation between the intelligence of
+spouses is less than perfect (and if men and women on average do not differ in intelligence), then it is a mathematical inevitability that highly intelligent women will be married to husbands who are on average less intelligent than they are (and vice versa, of course). The observed regression to the mean cannot be more interesting or more explainable than the imperfect correlation.
+
+You probably sympathize with Galton’s struggle with the concept of regression. Indeed, the statistician David Freedman used to say that if the
+topic of regression comes up in a criminal or civil trial, the side that must explain regression to the jury will lose the case. Why is it so hard? The main reason for the difficulty is a recurrent theme of this book: our mind is strongly biased toward causal explanations and does not deal well with “mere statistics.” When our attention is called to an event, associative memory will look for its cause—more precisely, activation will automatically spread to any cause that is already stored in memory. Causal explanations will be evoked when regression is detected, but they will be wrong because the truth is that regression to the mean has an explanation but does not have a cause. The event that attracts our attention in the golfing tournament is the frequent deterioration of the performance of the golfers who were successful on day 1. The best explanation of it is that those golfers were unusually lucky that day, but this explanation lacks the causal force that our minds prefer. Indeed, we pay people quite well to provide interesting explanations of regression effects. A business commentator who correctly announces that “the business did better this year because it had done poorly last year” is likely to have a short tenure on the air.
+
+**Q:** Why used the statistician David Freedman to say that if the *topic of regression* comes up in a criminal or civil trial, the side that must
+explain regression to the jury will lose the case?    
+**Ans:** Because the common population does not interpret the event in regression way. They don't interpret things based upon statistics.
+Our mind is strongly biased toward causal explanations and does not deal well with “mere statistics.” When our attention is called to an event, associative memory will look for its cause—more precisely, activation will automatically spread to any cause that is already stored in memory. Causal explanations will be evoked when regression is detected, but they will be wrong because the truth is that regression to the mean has an explanation but does not have a cause.
+
+**Key:** We have difficulty with the concept of regression.
+
+System 1 has insistent demand for causal interpretations. Because of this demand System 2 finds it difficult to understand and learn the concept of statistics.
+
+**Q:** What can I learn from this behavior of System 1 in my life?    
+**Ans:** My life: System 1 says the behaviour of that person caused all the misery of my life. System 2 says that he was like this with every person. Not only with you. Ex: Rajendra, his mom, home owner in Haldwani. So in general that is person is like that statistically. But system 1 has insistent demand to believe that he was specially with me like this. It is due to causal interpretation. So if you bring System 2 in control then this kind of thinking caused by System 1 can be removed from memory. Visualize a big picture in which that person is doing things with others also.
+
+
+Our difficulties with the concept of regression originate with both System 1 and System 2. Without special instruction, and in quite a few cases even after some statistical instruction, the relationship between correlation and regression remains obscure. System 2 finds it difficult to understand and learn. This is due in part to the insistent demand for causal interpretations, which is a feature of System 1.
+
+> Depressed children treated with an energy drink improve significantly over a three-month period.
+
+I made up this newspaper headline, but the fact it reports is true: if you treated a group of depressed children for some time with an energy drink, they would show a clinically significant improvement. It is also the case that depressed children who spend some time standing on their head or hug a cat for twenty minutes a day will also show improvement. Most readers of such headlines will automatically infer that the energy drink or the cat hugging caused an improvement, but this conclusion is completely unjustified. Depressed children are an extreme group, they are more depressed than most other children—and extreme groups regress to the mean over time. The correlation between depression scores on successive occasions of testing is less than perfect, so there will be regression to the mean: depressed children will get somewhat better over time even if they hug no cats and drink no Red Bull. In order to conclude that an energy drink—or any other treatment—is effective, you must compare a group of patients who receive this treatment to a “control group” that receives no treatment (or, better, receives a placebo). The control group is expected to improve by regression alone, and the aim of the experiment is to determine whether the treated patients improve more than regression can explain.
+
+**Key:** Extreme groups regress to the mean over time. 
+
+Ex: Some people are suffering from some severe disease. First they try modern medicine. No benefit that they go to Pantanjali and say that it healed them. But Extreme group will get somewhat better over time even if they don't take any medicine.
+
+Incorrect causal interpretations of regression effects are not restricted to readers of the popular press. The statistician Howard Wainer has drawn up a long list of eminent researchers who have made the same mistake—confusing mere correlation with causation. Regression effects are a
+common source of trouble in research, and experienced scientists develop a healthy fear of the trap of unwarranted causal inference.
+
+One of my favorite examples of the errors of intuitive prediction is adapted from Max Bazerman’s excellent text *Judgment in Managerial Decision
+Making*:
+
+You are the sales forecaster for a department store chain. All stores are similar in size and merchandise selection, but their sales differ because of location, competition, and random factors. You are given the results for 2011 and asked to forecast sales for 2012. You have been instructed to accept the overall forecast of economists that sales will increase overall by 10%. How would you complete the following table?
+
+Store   2011       2012
+
+1    $11,000,000  _____
+
+2    $23,000,000  _____
+
+3    $18,000,000  _____
+
+4    $29,000,000  _____
+
+Total $81,000,000 $87,000,000
+
+Having read this chapter, you know that the obvious solution of adding 10% to the sales of each store is wrong. You want your forecasts to be
+regressive, which requires adding more than 10% to the low-performing branches and adding less (or even subtracting) to others. But if you ask
+other people, you are likely to encounter puzzlement: Why do you bother them with an obvious question? As Galton painfully discovered, the
+concept of regression is far from obvious.
+
+**Key:** If you apply the concept of regression to mean to the above stores. Then less performing stores will do somewhat better next year and better performing stores will do less better next year.
+
+### Speaking of Regression to Mediocrity
+
+1. “She says experience has taught her that criticism is more effective than praise. What she doesn't understand is that it’s all due to regression to the mean.” (She would do better or worse even if no criticism or praise was given.)
+2. “Perhaps his second interview was less impressive than the first because he was afraid of disappointing us, but more likely it was his first that was unusually good.” (Maybe in he did unusually good in his first interview, and in the second he did his normal.)
+3. “Our screening procedure is good but not perfect, so we should anticipate regression. We shouldn't be surprised that the very best candidates often fail to meet our expectations.” (Sometimes a good candidates do not perform best)
+
+

@@ -17,12 +17,6 @@ theme = "ananke"
   url = '/getting-started/'
   weight = -100
 [[menu.main]]
-  name = 'Productivity'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/subjects/productivity/'
-  weight = -100
-[[menu.main]]
   name = 'Subjects'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"

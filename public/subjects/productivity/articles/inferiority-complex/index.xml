@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inferiority on Personal Knowledge Wiki</title>
+    <link>http://example.org/subjects/productivity/articles/inferiority-complex/</link>
+    <description>Recent content in Inferiority on Personal Knowledge Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 10:45:16 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/articles/inferiority-complex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test 01</title>
+      <link>http://example.org/subjects/productivity/articles/inferiority-complex/test-01/</link>
+      <pubDate>Tue, 01 Mar 2022 10:45:16 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/articles/inferiority-complex/test-01/</guid>
+      <description>Ref: https://myonlinetherapy.com/why-do-i-feel-inferior-how-to-overcome-an-inferiority-complex/
+Are you always comparing yourself to others – and feel that you don’t measure up? You may have an inferiority complex. Here’s what to do about it.
+Does everyone you know seem to be more successful, popular, funny, intelligent or attractive than you? Do you feel like you’re worthless, and just not ‘good enough’? Or do you hide the ‘real you’ and present a false self to the world?</description>
+    </item>
+    
+    <item>
+      <title>Why Do I Feel Inferior. How to Overcome Inferiority Complex</title>
+      <link>http://example.org/subjects/productivity/articles/inferiority-complex/why-do-i-feel-inferior-how-to-overcome-inferiority-complex/</link>
+      <pubDate>Tue, 01 Mar 2022 10:45:16 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/articles/inferiority-complex/why-do-i-feel-inferior-how-to-overcome-inferiority-complex/</guid>
+      <description>Ref: https://myonlinetherapy.com/why-do-i-feel-inferior-how-to-overcome-an-inferiority-complex/
+Are you always comparing yourself to others – and feel that you don’t measure up? You may have an inferiority complex. Here’s what to do about it.
+Does everyone you know seem to be more successful, popular, funny, intelligent or attractive than you? Do you feel like you’re worthless, and just not ‘good enough’? Or do you hide the ‘real you’ and present a false self to the world?</description>
+    </item>
+    
+  </channel>
+</rss>

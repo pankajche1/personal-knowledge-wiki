@@ -261,6 +261,17 @@ Q: How multiple sites are configured on a single web server host?</description>
     </item>
     
     <item>
+      <title>Chapter 1: Lifetraps</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch01-lifetraps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch01-lifetraps/</guid>
+      <description>Are you repeatedly drawn into relationships with people who are cold to you? Do you feel that even the people closest to you do not care or understand enough about you?
+  Do you feel that you are at your core somehow defective, that no one who truly knows you could possibly love and accept you?
+  Do you put the needs of others above your own, so your needs never get met—and so you do not even know what your real needs are?</description>
+    </item>
+    
+    <item>
       <title>from org</title>
       <link>http://example.org/posts/building-a-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -289,6 +300,19 @@ hugo server -D
       <description>:ID: 3eac89c6-7509-4cb5-bdac-6840218ceb94
 Book: Daniel Kahneman: Thinking fast and slow, Chapter: 08 How Judgments Happen, page: 89
 Introduction There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself. Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on this page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous.</description>
+    </item>
+    
+    <item>
+      <title>How Lifetraps Change</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch05-how-lifetraps-change/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch05-how-lifetraps-change/</guid>
+      <description>Steps:
+ Label and Identify your Lifetraps   Subjugation Defectiveness Failure Social Exclusion   Understand the Childhood Origins of Your Lifetrap. Feel the Wounded Child Inside You.
+  The Third Step is to Build a Case Against Your Lifetrap. Disprove its Validity at a Rational Level.
+  Write Letters to the Parent, Sibling, or Peer Who Helped Cause Your Lifetrap.
+  Examine Your Lifetrap Pattern in Careful Detail.</description>
     </item>
     
     <item>
@@ -331,6 +355,18 @@ for example so many books
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch20-the-illusion-of-validity/</guid>
       <description>[2022-03-02 Wed 17:55]
 System 1 is designed to jump to conclusions from little evidence—and it is not designed to know the size of its jumps. Because of WYSIATI, only the evidence at hand counts. Because of confidence by coherence, the subjective confidence we have in our opinions reflects the coherence of the story that System 1 and System 2 have constructed. The amount of evidence and its quality do not count for much, because poor evidence can make a very good story.</description>
+    </item>
+    
+    <item>
+      <title>Which lifetraps do you have?</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</guid>
+      <description>In this chapter, we will help you identify which lifetraps seem most pertinent to your life.
+Rate each of the next twenty-two statements in terms of how true each is of you on this six-point scale.
+Scoring Key:
+ Completely untrue of me Mostly untrue of me Slightly more true than untrue of me Moderately true of me Mostly true of me Describes me perfectly  First, rate how true the statement was of you as a child.</description>
     </item>
     
   </channel>

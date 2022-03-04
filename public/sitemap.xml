@@ -117,18 +117,30 @@
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch01/introduction/</loc>
   </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch01-lifetraps/</loc>
+  </url><url>
     <loc>http://example.org/posts/building-a-site/</loc>
   </url><url>
     <loc>http://example.org/posts/20211231172025-how_judgments_happen/</loc>
   </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch05-how-lifetraps-change/</loc>
+  </url><url>
     <loc>http://example.org/articles/hugo/</loc>
   </url><url>
     <loc>http://example.org/subjects/software/hugo/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/test_books/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch20-the-illusion-of-validity/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</loc>
   </url>
 </urlset>

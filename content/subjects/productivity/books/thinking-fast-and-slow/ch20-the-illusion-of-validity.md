@@ -116,6 +116,7 @@ Subjective confidence in a judgment is not a reasoned evaluation of the probabil
 reflects the coherence of the information and the cognitive ease of processing it. It is wise to take admissions of uncertainty seriously, but declarations of high confidence mainly tell you that an individual has constructed a coherent story in his mind, not necessarily that the story is true.
 
 
+
 ### The Illusion of Stock-Picking Skill
 
 TODO

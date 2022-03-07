@@ -105,6 +105,8 @@
   </url><url>
     <loc>http://example.org/articles/</loc>
   </url><url>
+    <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</loc>
@@ -119,6 +121,8 @@
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch01-lifetraps/</loc>
   </url><url>
+    <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/ch02-child-modes/</loc>
+  </url><url>
     <loc>http://example.org/posts/building-a-site/</loc>
   </url><url>
     <loc>http://example.org/posts/20211231172025-how_judgments_happen/</loc>
@@ -128,6 +132,10 @@
     <loc>http://example.org/articles/hugo/</loc>
   </url><url>
     <loc>http://example.org/subjects/software/hugo/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch12-i-m-worthless-the-defectiveness-lifetrap/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/introduction/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/</loc>
   </url><url>

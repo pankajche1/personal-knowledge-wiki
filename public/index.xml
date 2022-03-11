@@ -223,6 +223,16 @@ Q: How multiple sites are configured on a single web server host?</description>
     </item>
     
     <item>
+      <title>Chapter 10: I can&#39;t make it on my own: The Dependence Lifetrap</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch10-the-dependence-lifetrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch10-the-dependence-lifetrap/</guid>
+      <description>Margaret: Twenty-eight years old, feels trapped in her marriage to an abusive husband.
+ When Margaret first walks into our office there is a frightened look in her eyes. It raises a protective impulse in us and we move to take care of her. When we tell her she seems frightened, she tells us that she does not even like to think about her problems, let alone talk about them.</description>
+    </item>
+    
+    <item>
       <title>Chapter 13: Availability, Emotion and Risk</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -269,6 +279,18 @@ Q: How multiple sites are configured on a single web server host?</description>
       <description>Are you repeatedly drawn into relationships with people who are cold to you? Do you feel that even the people closest to you do not care or understand enough about you?
   Do you feel that you are at your core somehow defective, that no one who truly knows you could possibly love and accept you?
   Do you put the needs of others above your own, so your needs never get met—and so you do not even know what your real needs are?</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2: Which lifetraps do you have?</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</guid>
+      <description>In this chapter, we will help you identify which lifetraps seem most pertinent to your life.
+Rate each of the next twenty-two statements in terms of how true each is of you on this six-point scale.
+Scoring Key:
+ Completely untrue of me Mostly untrue of me Slightly more true than untrue of me Moderately true of me Mostly true of me Describes me perfectly  First, rate how true the statement was of you as a child.</description>
     </item>
     
     <item>
@@ -399,18 +421,6 @@ When Kathleen first walks into our office, she has a tense, crestfallen appearan
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch20-the-illusion-of-validity/</guid>
       <description>[2022-03-02 Wed 17:55]
 System 1 is designed to jump to conclusions from little evidence—and it is not designed to know the size of its jumps. Because of WYSIATI, only the evidence at hand counts. Because of confidence by coherence, the subjective confidence we have in our opinions reflects the coherence of the story that System 1 and System 2 have constructed. The amount of evidence and its quality do not count for much, because poor evidence can make a very good story.</description>
-    </item>
-    
-    <item>
-      <title>Which lifetraps do you have?</title>
-      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</guid>
-      <description>In this chapter, we will help you identify which lifetraps seem most pertinent to your life.
-Rate each of the next twenty-two statements in terms of how true each is of you on this six-point scale.
-Scoring Key:
- Completely untrue of me Mostly untrue of me Slightly more true than untrue of me Moderately true of me Mostly true of me Describes me perfectly  First, rate how true the statement was of you as a child.</description>
     </item>
     
   </channel>

@@ -206,4 +206,85 @@ He had a more difficult battle with his father. Although his father tried to squ
 
 This case illustrates the importance of going beyond getting in touch with our feelings. Many so-called experiential therapies, such as inner-child work, provide a valuable role in helping us feel the links between what we experience in our daily lives today and what we felt as children. But these approaches rarely go far enough. Participants often feel much better after therapy sessions or workshops, but they usually drift back to their old patterns quickly. The lifetrap approach provides structured behavioral homework assignments and continual confrontation to help you maintain progress.
 
-TODO 
+### THE COGNITIVE THERAPY REVOLUTION
+
+**Q** What is the origin of lifetrap/schema therapy?    
+**Ans:** Lifetrap therapy is an outgrowth of an approach called cognitive therapy, developed by Dr. Aaron Beck in the 1960s. 
+
+We have incorporated many aspects of cognitive therapy into the lifetrap approach.
+
+**Q:** What is the basic premise of cognitive therapy?    
+**Ans:** For example if a boy is taught by his mother that riding a subway is dangerous. Then he will think that subway is dangerous and then he will feel fear when he has to ride the subway. So we think about something (cognition) --> decides our feelings about that something. This creates a lifetrap to view certain kinds of situations in an inaccurate manner.
+
+The basic premise of cognitive therapy is that the way we think about events in our lives (cognition) determines how we feel about them (emotions). People with emotional problems tend to distort reality. For example, Heather was taught by her mother to view everyday tasks such as riding a subway as dangerous. Lifetraps lead us to view certain kinds of situations in an inaccurate manner. They push our cognitive buttons.
+
+> **Note:** People with emotional problems tend to distort reality.
+
+**Q:** How cognitive therapy works?    
+**Ans:** Cognitive therapists believe that if we can teach patients to become more accurate about the way they interpret situations, we can help them feel better. If we can show Heather that she can travel on her own without much danger, then she will be less frightened and can begin living again.
+
+> **Note:** In cognitive therapy patients learn to be more accurate about the way they interpret situations. Then they can feel better and remove their fears, anxiety about that situation.
+
+Dr. Beck suggests that we examine our thoughts logically. When we are upset, are we exaggerating, personalizing, catastrophizing, etc.? Do our thoughts really make sense? Are there other ways to look at the situation? Further, Beck says we should test our negative thoughts by performing
+little experiments. For example, we asked Heather to walk around the block alone during the winter to see that nothing harmful would happen to her, even though she was convinced she would get sick or be mugged.
+
+**Q:** What may be the reason when we feel upset?    
+**Ans:** It may be possible that we can feel upset because of some valid reason. But there are also possibilities that we can be exaggerating, personalizing, catastrophizing, etc
+
+> **Note:** We must examine our thoughts logically.
+
+Cognitive therapy has gained wide respect. A large, growing body of research supports its effectiveness with such disorders as anxiety and depression. It is an active approach that teaches patients to control their own moods by controlling their thoughts.
+
+> **Note:** By cognitive therapy patients can learn to control their moods by controlling their thoughts.
+
+Cognitive therapists usually combine cognitive methods with behavioral techniques, which are designed to teach patients practical skills they may never have learned such as relaxation, assertiveness, anxiety management, problem solving, time management, and social skills.
+
+**Lingo:** cognitive methods, behavioral techniques
+
+However, we have found over the years that cognitive and behavioral methods, while invaluable, are not sufficient to change lifelong patterns. Thus we developed the Lifetrap approach, which combines cognitive and behavioral techniques with psychoanalytic and experiential techniques. Madeline, the final patient we will discuss in this chapter, demonstrates both the value and limitation of using only cognitive behavioral methods.
+
+**Q:** Why lifetrap approach was developed?    
+**Ans:** Over the years it was found that cognitive and behavioral methods are not sufficient to change lifelong patterns.
+
+**Q:** What is lifetrap approach?    
+**Ans:** It combines cognitive and behavioral techniques with psychoanalytic and experiential techniques.
+
+> **Madeline:** A twenty-nine-year-old actress and singer. She was sexually abused by her stepfather, and continues TO SUFFER THE EFFECTS. MADELINE IS STILL PLAYING out the Mistrust and Abuse lifetrap. 
+
+Madeline has never had a long-term relationship with a man. Instead, she has gone from one extreme to the other: either she has avoided men altogether or she has been promiscuous. 
+
+Until she went to college, Madeline avoided boys. She never dated or had a boyfriend.
+
+> MADELINE: *I never let a guy near me. I remember the first time a boy kissed me. I ran away. When I sensed that a boy liked me, I acted really cold until he went away.*
+
+In her first two years of college, Madeline started drinking and doing drugs. During this period, she had sex with more than thirty men. ''None
+of them meant anything to me," she says.
+
+> MADELINE: *I went wild in college. I slept around. There was one fraternity where every guy in there had slept with me. I was miserable. I felt cheap and dirty. I felt used. I just couldn't say no. I would go out with a guy and end up sleeping with him even though I had promised myself I
+wouldn't. I figured it was the only reason guys would go out with me. I really don Y know why I did it. That whole time was just tike running out of control.*
+
+The experience of sexual abuse by her stepfather damaged her sexuality and capacity for intimacy with men. For her, sex and abuse are inextricably
+mixed.
+
+Now, Madeline is back to avoiding men. She has not dated in many years and is worried that she will never be able to marry and have children.
+
+The first treatment Madeline tried was conventional cognitive therapy. Her therapist focused on the present—on Madeline's current avoidance of men. It was rare, for example, for Madeline to discuss her childhood in therapy. Instead, she and her therapist designed homework for her to do between sessions, such as striking up conversations with men or going to parties. The therapist helped her fight her distorted thoughts, such as "Men are only out for sex," by asking her for examples of men she knew who were caring and wanted intimacy.
+
+Therapy went on for several months. Madeline began to date again, but she was drawn to abusive men. Although she recognized that many men were considerate, her experience with boyfriends did not bear this out. Madeline realized she needed something more to change her deeply ingrained pattern.
+
+> MADELINE: *I felt like my therapist was asking me to change without understanding why I was the way I was. I mean, I know I have to change in the ways that she said. I have to start trusting men and stop avoiding closeness. But there are reasons why I avoid men. I need to understand what they are.*
+
+Madeline became angry at any man who seemed to approach her romantically. She could see that the anger was the result of distorted thoughts, but
+she still felt it. Madeline needed to direct her anger toward its true object - her stepfather. She needed to express her anger and have it validated.
+
+During the first year and a half of lifetrap therapy, we helped Madeline to uncover her memories of abuse through imagery. We pushed her to ventilate her anger at her stepfather and to confront him with her accusations. We encouraged her to join a support group for survivors of incest. We also showed her how she maintained her pattern of abuse by selecting abusive boyfriends.
+
+Madeline slowly resumed dating. Although she was still attracted to abusive men, she stayed away from them at our insistence, focusing instead on men who treated her respectfully, even though the chemistry was less intense. She worked on demanding respect, rather than leaving it to the man to give it to her. She learned to say "no."
+
+About a year later she fell in love with Ben, a gentle, sensitive man. Even with him, however, she experienced serious sexual inhibition. Ben was willing to work with her to overcome her sexual difficulties. She is now considering marriage.
+
+In Chapter 16, we will provide many suggestions for changing the Mistrust and Abuse lifetrap. However, we want to emphasize that many lifetraps, Mistrust and Abuse in particular, take a long time to change and should be approached with the help of a therapist or support group.
+
+Madeline's treatment illustrates how lifetrap therapy retains the practical focus of cognitive and behavioral therapies: it builds skills and makes changes. But we are interested in more than short-term behavior modification. We also want to address lifelong issues, especially difficulties in relationships, self-esteem, and career problems. We want to address behavior, but we also want to address the ways that people feel and relate.
+
+The next chapter begins with a questionnaire to help you discover which lifetraps apply to you.

@@ -1,0 +1,12 @@
+# ignore these file and folders:
+*.pyc
+*~
+*.swp
+*.swo
+*.geany
+*.log
+*.jpg
+*.png
+*.jpeg
+*.JPEG
+error.log

@@ -26,13 +26,13 @@
     <loc>http://example.org/subjects/productivity/books/</loc>
     <lastmod>2022-02-28T22:09:12+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch19/chapter-19-the-illusion-of-understanding/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch19-the-illusion-of-understanding/</loc>
     <lastmod>2022-02-28T22:09:12+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
     <lastmod>2022-02-28T22:09:12+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch18/chapter-18_taming-intuitive-predictions/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch18_taming-intuitive-predictions/</loc>
     <lastmod>2022-02-26T18:36:26+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/management/books/</loc>
@@ -50,7 +50,7 @@
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/chapter-5-online-fundamentals/</loc>
     <lastmod>2022-02-24T19:48:29+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch17/ch17-regression-to-the-mean/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch17-regression-to-the-mean/</loc>
     <lastmod>2022-02-22T18:36:24+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/management/books/exporting-the-definitive-guide-to-selling-abroad-profitably/ch04-the-human-side-of-an-export-enterprise/</loc>
@@ -109,17 +109,19 @@
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
+    <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/ch10-changing-coping-mode/</loc>
+  </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch10-the-dependence-lifetrap/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13/availability-emotion-and-risk/</loc>
+    <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/ch11-promoting_your_healthy/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15/failure-of-system-2/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch13-availability-emotion-and-risk/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch16/causes-trump-statistics/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch15-failure-of-system-2/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch01/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch16-causes-trump-statistics/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch01/introduction/</loc>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch00-introduction/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch01-lifetraps/</loc>
   </url><url>
@@ -131,7 +133,39 @@
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch24-the_engine_of_capitalism/</loc>
   </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch25-bernoulli-s_errors/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch26-prospect_theory/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch27-the_endowment_effect/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch28-bad_events/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch29-the_fourfold_pattern/</loc>
+  </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch33-reversals/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch36-life_as_a_story/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch37-experienced_well-being/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch38-thinking_about_life/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch39-conclusion/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch08-emotional_deprivation/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/ch02-child-modes/</loc>
   </url><url>

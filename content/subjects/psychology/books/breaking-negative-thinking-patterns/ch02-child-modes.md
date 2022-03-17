@@ -57,3 +57,9 @@ If one or more of these Modes sound familiar to you, it might be helpful for you
 ### Vulnerable Child Modes
 
 Vulnerable child Modes go along with all types of sad or anxious emotions. Most people can easily name the feeling which troubles them most; the experience of mixed feelings is also ver common. The following examples will give you hints about what to focus on when you wish to get in contact with your own Vulnerable Child Mode. They might also help you understand which situations Vulnerable Child Modes usually appear in. Please keep in mind that the following examples do not aspire to completeness. Your child Mode may be associated with different feelings.
+
+**Abandonment or instability.** If you suffer from strong feelings of abandonment, you will often have a sense of being abandoned by others or you fear that you will soon be abandoned. Even in the company of close friends or family members you may happen to experience feelings of loneliness. People with strong feelings of loneliness or abandonment often experienced some kind of desertion in their childhood or youth. Maybe a parent left the family, an important attachment figure died, or they had to live in a succession of foster families that rejected them over and over again.
+
+Case Example: TODO
+
+**Social isolation.** Some people lack the feeling of belonging to others. They feel isolated, as if they were cut off from the rest of the world. The origin of this feeling is very often an experience of being excluded, for example, by frequent moving or by membership in an unusual, restrictive religious community. Early exclusion from the family or the group of siblings can be traumatic as well. In adult life, seemingly unimportant social signals, such as the order of seating at a dinner party, can trigger the Mode of the excluded child.

@@ -1,0 +1,9 @@
+#+title: Just for test
+#+subtitle: just ofr test
+#+date: 2022-03-20
+
+This is just for test
+
+* Here I am writing things in org mode
+
+  Let's see if hugo converts it in the site page...

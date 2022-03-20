@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/subjects/productivity/books/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch01-make-your-life-a-masterpiece/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/post-in-org/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/subjects/productivity/articles/</loc>
     <lastmod>2022-03-01T10:45:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/articles/inferiority-complex/</loc>
-    <lastmod>2022-03-01T10:45:16+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-03-01T10:45:16+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/</loc>
-    <lastmod>2022-03-01T10:45:16+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/</loc>
     <lastmod>2022-03-01T10:45:16+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/articles/inferiority-complex/test-01/</loc>
@@ -23,13 +47,7 @@
     <loc>http://example.org/subjects/productivity/articles/inferiority-complex/why-do-i-feel-inferior-how-to-overcome-inferiority-complex/</loc>
     <lastmod>2022-03-01T10:45:16+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/</loc>
-    <lastmod>2022-02-28T22:09:12+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch19-the-illusion-of-understanding/</loc>
-    <lastmod>2022-02-28T22:09:12+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
     <lastmod>2022-02-28T22:09:12+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch18_taming-intuitive-predictions/</loc>
@@ -92,9 +110,6 @@
     <loc>http://example.org/posts/my-second-post/</loc>
     <lastmod>2021-12-31T20:36:18+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-12-31T20:36:18+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/subjects/che/</loc>
   </url><url>
     <loc>http://example.org/subjects/software/apache-web-server/basics/</loc>
@@ -145,8 +160,6 @@
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</loc>
-  </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</loc>
@@ -186,6 +199,8 @@
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch12-i-m-worthless-the-defectiveness-lifetrap/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/introduction/</loc>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/preface/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/</loc>
   </url><url>

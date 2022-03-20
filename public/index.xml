@@ -6,7 +6,47 @@
     <description>Recent content on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 10:45:16 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1 : Make Your Life a Masterpiece</title>
+      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch01-make-your-life-a-masterpiece/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch01-make-your-life-a-masterpiece/</guid>
+      <description>This is the age of achievement. Never have more people accomplished more things in more different fields than they are accomplishing today. More people are becoming successful at a faster rate than at any other time in history. There have never been more opportunities for you to turn your dreams into realities than there are right now.
+ Leading futurists and prominent businesspeople are predicting that mankind is entering a Golden Age.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 30 : Rare Events</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</guid>
+      <description>I visited Israel several times during a period in which suicide bombings in buses were relatively common—though of course quite rare in absolute terms. There were altogether 23 bombings between December 2001 and September 2004, which had caused a total of 236 fatalities. The number of daily bus riders in Israel was approximately 1.3 million at that time. For any traveler, the risks were tiny, but that was not how the public felt about it.</description>
+    </item>
+    
+    <item>
+      <title>Just for test</title>
+      <link>http://example.org/posts/post-in-org/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-in-org/</guid>
+      <description>  This is just for test
+Here I am writing things in org mode   Let&amp;#39;s see if hugo converts it in the site page…
+  </description>
+    </item>
+    
+    <item>
+      <title>The Seven Laws of Mental Mastery</title>
+      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</guid>
+      <description>TODO
+ Mental laws, although their physical effects cannot be seen quite so easily, also work 100 percent of the time. Whenever your life is going well, it means that your thoughts and activities are aligned and in harmony with these invisible mental laws. Whenever you are having problems of any kind, it is almost invariably because you are violating one or more of these laws, whether you know about them or not.</description>
+    </item>
+    
     <item>
       <title>test 01</title>
       <link>http://example.org/subjects/productivity/articles/inferiority-complex/test-01/</link>
@@ -173,7 +213,8 @@ $ hugo new mydir1/test.md   Now suppose you want to add a new file to the mydir1
       <description>Can you write something here?  Now what?
 this is bold
 this is
-but now the question is how to put links in this page?</description>
+but now the question is how to put links in this page?
+Just test</description>
     </item>
     
     <item>
@@ -398,15 +439,6 @@ Scoring Key:
     </item>
     
     <item>
-      <title>Chapter 30: Rare Events</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chapter 31: Risk Policies</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -616,6 +648,17 @@ $ git remote add origin https://github.</description>
       <guid>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/introduction/</guid>
       <description>Understanding the Origin of Your Patterns A basic principle of the Mode concept is that everyone experience themselves differently at different moments. While you may feel very healthy and relaxed in one moment, you may feel vulnerable and sad in another. In some other situation you may rather be emotionally cold and feel nothing. Such different states are called “Modes.” In schema therapy we define the following Modes:
   Vulnerable and Angry Child Modes.</description>
+    </item>
+    
+    <item>
+      <title>Preface</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/preface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/preface/</guid>
+      <description>[2022-03-18 Fri 11:43]
+Why another self-help book?
+We believe that Reinventing Your Life fills an important gap in the books currently available for self-improvement. There are many excellent self-help books, just as there are many fine therapy approaches. However, most of these are limited. Some books only deal with one specific problem, like codependency, depression, lack of assertiveness, or making poor partner choices. Some deal with many problems, but only use one means of change, like inner-child work, couples exercises, or cognitive-behavioral methods.</description>
     </item>
     
     <item>

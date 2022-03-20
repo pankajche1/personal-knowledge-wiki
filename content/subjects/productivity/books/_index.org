@@ -1,0 +1,10 @@
+#+title: books
+#+description: Here in this section information/help has been provided for various software concpets
+
+
+These are the books available:
+
+ [[{{% relref  "./thinking-fast-and-slow" %}}][Thinking Fast and Slow]]
+
+[[{{% relref  "./maximum-achievement" %}}][Maximum Achievement]]
+

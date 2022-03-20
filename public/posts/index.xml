@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 20:36:18 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just for test</title>
+      <link>http://example.org/posts/post-in-org/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-in-org/</guid>
+      <description>  This is just for test
+Here I am writing things in org mode   Let&amp;#39;s see if hugo converts it in the site page…
+  </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/my-first-post/</link>
@@ -16,7 +27,8 @@
       <description>Can you write something here?  Now what?
 this is bold
 this is
-but now the question is how to put links in this page?</description>
+but now the question is how to put links in this page?
+Just test</description>
     </item>
     
     <item>

@@ -6,7 +6,65 @@
     <description>Recent content on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 20:49:46 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 31: Risk Policies</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
+      <pubDate>Sat, 26 Mar 2022 20:49:46 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</guid>
+      <description>Imagine that you face the following pair of concurrent decisions. First examine both decisions, then make your choices.
+ Decision (i): Choose between
+ (A) sure gain of $240
+ (B) 25% chance to gain $1,000 and 75% chance to gain nothing
+ Decision (ii): Choose between
+ (C) sure loss of $750
+ (D) 75% chance to lose $1,000 and 25% chance to lose nothing
+ This pair of choice problems has an important place in the history of prospect theory, and it has new things to tell us about rationality.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 14: &#34;I Always Do It Your Way!&#34; The Subjugation Lifetrap</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch14-subjugation-lifetrap/</link>
+      <pubDate>Tue, 22 Mar 2022 18:47:48 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch14-subjugation-lifetrap/</guid>
+      <description>TODO
+THE SUBJUGATION QUESTIONNAIRE   DESCRIPTION
+  I let other people control me.
+  I am afraid that if I do not give in to other people&amp;#39;s wishes they will retaliate, get angry, or reject me.
+  I feel the major decisions in my life were not really my own.
+  I have a lot of trouble demanding that other people respect my rights.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 17: A Philosophy to Change</title>
+      <link>http://example.org/subjects/psychology/books/reinventing-your-life/ch17-a-philosophy-to-change/</link>
+      <pubDate>Tue, 22 Mar 2022 17:58:01 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/psychology/books/reinventing-your-life/ch17-a-philosophy-to-change/</guid>
+      <description>SEVEN BASIC ASSUMPTIONS   The process of change is a difficult one. We watch patients every day struggling to overcome deeply ingrained patterns. We also go through this same process of growth ourselves, and we observe how frustrating it can be to our friends and family members.
+ We know that self-help books, including this one, probably make change seem easier than it actually is. We wish there were some way to fully prepare you for the ups and downs of growing.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3: The Master Program</title>
+      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch03-master-programm/</link>
+      <pubDate>Mon, 21 Mar 2022 18:33:25 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch03-master-programm/</guid>
+      <description>Everything that happens to you, everything you become and accomplish is determined by the way you think, by the way you use your mind. As you begin changing your mind, you begin changing your life. But how did you get to where you are today? What formati&amp;#39;le influences have combined to make you the person you are right now? Why do you think and feel the way you do, and what are the factors that have brought you to your current situation?</description>
+    </item>
+    
+    <item>
+      <title>The Seven Laws of Mental Mastery</title>
+      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</link>
+      <pubDate>Sun, 20 Mar 2022 20:36:22 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</guid>
+      <description>Key Value   1,2 Jim Butters was here     This is my caption    Mental laws, although their physical effects cannot be seen quite so easily, also work 100 percent of the time. Whenever your life is going well, it means that your thoughts and activities are aligned and in harmony with these invisible mental laws. Whenever you are having problems of any kind, it is almost invariably because you are violating one or more of these laws, whether you know about them or not.</description>
+    </item>
+    
     <item>
       <title>Chapter 1 : Make Your Life a Masterpiece</title>
       <link>http://example.org/subjects/productivity/books/maximum-achievement/ch01-make-your-life-a-masterpiece/</link>
@@ -35,16 +93,6 @@
       <description>  This is just for test
 Here I am writing things in org mode   Let&amp;#39;s see if hugo converts it in the site page…
   </description>
-    </item>
-    
-    <item>
-      <title>The Seven Laws of Mental Mastery</title>
-      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</link>
-      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</guid>
-      <description>TODO
- Mental laws, although their physical effects cannot be seen quite so easily, also work 100 percent of the time. Whenever your life is going well, it means that your thoughts and activities are aligned and in harmony with these invisible mental laws. Whenever you are having problems of any kind, it is almost invariably because you are violating one or more of these laws, whether you know about them or not.</description>
     </item>
     
     <item>
@@ -436,15 +484,6 @@ The planning fallacy is only one of the manifestations of a pervasive optimistic
 Rate each of the next twenty-two statements in terms of how true each is of you on this six-point scale.
 Scoring Key:
  Completely untrue of me Mostly untrue of me Slightly more true than untrue of me Moderately true of me Mostly true of me Describes me perfectly  First, rate how true the statement was of you as a child.</description>
-    </item>
-    
-    <item>
-      <title>Chapter 31: Risk Policies</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</guid>
-      <description></description>
     </item>
     
     <item>

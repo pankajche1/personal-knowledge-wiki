@@ -1,7 +1,14 @@
 #+TITLE: The Seven Laws of Mental Mastery
-#+DATE: 2022-03-20
+#+DATE: 2022-03-20T20:36:22
+#+categories[]: emacs hugo org-mode
+#+lastmod: [2022-03-21 Mon 12:37]
+#+tags[]: mental mastery laws
 
-TODO
+#+CAPTION: This is my caption
+#+ATTR_HTML: :class table table-striped table-dark
+| Key | Value                |
+| 1,2 | Jim Butters was here |
+
 
 Mental laws, although their physical effects cannot be seen quite so easily, also work 100 percent of the time. Whenever your life is going well, it means that your thoughts and activities are aligned and in harmony with these invisible mental laws. Whenever you are having problems of any kind, it is almost invariably because you are violating one or more of these laws, whether you know about them or not. Because they are central to your happiness, it is essential that you become familiar with them and integrate them into everything you do.
 

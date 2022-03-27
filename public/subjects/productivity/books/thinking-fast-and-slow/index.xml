@@ -6,7 +6,23 @@
     <description>Recent content in Thinking Fast and Slow on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/subjects/productivity/books/thinking-fast-and-slow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 20:49:46 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/books/thinking-fast-and-slow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 31: Risk Policies</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
+      <pubDate>Sat, 26 Mar 2022 20:49:46 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</guid>
+      <description>Imagine that you face the following pair of concurrent decisions. First examine both decisions, then make your choices.
+ Decision (i): Choose between
+ (A) sure gain of $240
+ (B) 25% chance to gain $1,000 and 75% chance to gain nothing
+ Decision (ii): Choose between
+ (C) sure loss of $750
+ (D) 75% chance to lose $1,000 and 25% chance to lose nothing
+ This pair of choice problems has an important place in the history of prospect theory, and it has new things to tell us about rationality.</description>
+    </item>
+    
     <item>
       <title>Chapter 30 : Rare Events</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch30-rare_events/</link>
@@ -167,15 +183,6 @@ The planning fallacy is only one of the manifestations of a pervasive optimistic
       
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch29-the_fourfold_pattern/</guid>
       <description>write here</description>
-    </item>
-    
-    <item>
-      <title>Chapter 31: Risk Policies</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</guid>
-      <description></description>
     </item>
     
     <item>

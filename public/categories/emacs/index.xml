@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emacs on Personal Knowledge Wiki</title>
+    <link>http://example.org/categories/emacs/</link>
+    <description>Recent content in emacs on Personal Knowledge Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Mar 2022 20:36:22 +0000</lastBuildDate><atom:link href="http://example.org/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Seven Laws of Mental Mastery</title>
+      <link>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</link>
+      <pubDate>Sun, 20 Mar 2022 20:36:22 +0000</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</guid>
+      <description>Key Value   1,2 Jim Butters was here     This is my caption    Mental laws, although their physical effects cannot be seen quite so easily, also work 100 percent of the time. Whenever your life is going well, it means that your thoughts and activities are aligned and in harmony with these invisible mental laws. Whenever you are having problems of any kind, it is almost invariably because you are violating one or more of these laws, whether you know about them or not.</description>
+    </item>
+    
+  </channel>
+</rss>

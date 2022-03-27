@@ -3,7 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/subjects/productivity/books/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
+    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/</loc>
+    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
+    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch14-subjugation-lifetrap/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/</loc>
+    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch17-a-philosophy-to-change/</loc>
+    <lastmod>2022-03-22T18:44:01+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch03-master-programm/</loc>
+    <lastmod>2022-03-21T18:33:25+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/</loc>
+    <lastmod>2022-03-21T18:33:25+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/emacs/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/hugo/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/laws/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/mastery/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/mental/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/org-mode/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</loc>
+    <lastmod>2022-03-20T20:36:22+00:00</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch01-make-your-life-a-masterpiece/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
@@ -14,25 +77,7 @@
     <loc>http://example.org/posts/post-in-org/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/maximum-achievement/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/maximum-achievement/ch02-seven-laws-of-mental-mastery/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/articles/</loc>
@@ -122,8 +167,6 @@
   </url><url>
     <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
     <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/ch10-changing-coping-mode/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch10-the-dependence-lifetrap/</loc>
@@ -159,8 +202,6 @@
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch29-the_fourfold_pattern/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</loc>
   </url><url>
@@ -201,14 +242,6 @@
     <loc>http://example.org/subjects/psychology/books/breaking-negative-thinking-patterns/introduction/</loc>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/preface/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/psychology/books/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/psychology/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/psychology/books/reinventing-your-life/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/test_books/</loc>
   </url><url>

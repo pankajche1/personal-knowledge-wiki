@@ -6,7 +6,37 @@
     <description>Recent content in Thinking Fast and Slow on Personal Knowledge Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Mar 2022 20:49:46 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/books/thinking-fast-and-slow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 22:29:31 +0530</lastBuildDate><atom:link href="http://example.org/subjects/productivity/books/thinking-fast-and-slow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 35: Two Selves</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</link>
+      <pubDate>Sat, 09 Apr 2022 22:29:31 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</guid>
+      <description>Introduction   The term utility has had two distinct meanings in its long history. Jeremy Bentham opened his Introduction to the Principles of Morals and Legislation with the famous sentence “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” In an awkward footnote, Bentham apologized for applying the word utility to these experiences, saying that he had been unable to find a better word.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 34: Frames and Reality</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</link>
+      <pubDate>Sat, 09 Apr 2022 22:26:38 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</guid>
+      <description>TODO
+Speaking of Frames and Reality    “They will feel better about what happened if they manage to frame the outcome in terms of how much money they kept rather than how much they lost.”
+  “Let’s reframe the problem by changing the reference point. Imagine we did not own it; how much would we think it is worth?”
+  “Charge the loss to your mental account of ‘general revenue’— you will feel better!</description>
+    </item>
+    
+    <item>
+      <title>Chapter 32: Keeping Score</title>
+      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</link>
+      <pubDate>Sat, 09 Apr 2022 21:41:09 +0530</pubDate>
+      
+      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</guid>
+      <description>Introduction   Except for the very poor, for whom income coincides with survival, the main motivators of money-seeking are not necessarily economic. For the billionaire looking for the extra billion, and indeed for the participant in an experimental economics project looking for the extra dollar, money is a proxy for points on a scale of self-regard and achievement. These rewards and punishments, promises and threats, are all in our heads.</description>
+    </item>
+    
     <item>
       <title>Chapter 31: Risk Policies</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</link>
@@ -186,15 +216,6 @@ The planning fallacy is only one of the manifestations of a pervasive optimistic
     </item>
     
     <item>
-      <title>Chapter 32: Keeping Score</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chapter 33: Reversals</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch33-reversals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -204,30 +225,12 @@ The planning fallacy is only one of the manifestations of a pervasive optimistic
     </item>
     
     <item>
-      <title>Chapter 34: Frames and Reality</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chapter 35: Two Selves</title>
-      <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chapter 36: Life as a Story</title>
       <link>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch36-life_as_a_story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch36-life_as_a_story/</guid>
-      <description></description>
+      <description>Introduction   Early in the days of my work on the measurement of experience, I saw Verdi’s opera La Traviata . Known for its gorgeous music, it is also a moving story of the love between a young aristocrat and Violetta, a woman of the demimonde. The young man’s father approaches Violetta and convinces her to give up her lover, to protect the honor of the family and the marriage prospects of the young man’s sister.</description>
     </item>
     
     <item>
@@ -254,8 +257,7 @@ The planning fallacy is only one of the manifestations of a pervasive optimistic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch39-conclusion/</guid>
-      <description>[2022-03-12 Sat 18:54]
-I began this book by introducing two fictitious characters, spent some time discussing two species, and ended with two selves. The two characters were the intuitive System 1, which does the fast thinking, and the effortful and slower System 2, which does the slow thinking, monitors System 1, and maintains control as best it can within its limited resources. The two species were the fictitious Econs, who live in the land of theory, and the Humans, who act in the real world.</description>
+      <description>[2022-03-12 Sat 18:54]  I began this book by introducing two fictitious characters, spent some time discussing two species, and ended with two selves. The two characters were the intuitive System 1, which does the fast thinking, and the effortful and slower System 2, which does the slow thinking, monitors System 1, and maintains control as best it can within its limited resources. The two species were the fictitious Econs, who live in the land of theory, and the Humans, who act in the real world.</description>
     </item>
     
     <item>

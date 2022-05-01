@@ -1,0 +1,85 @@
+#+TITLE:  Chapter 35: Two Selves
+#+DATE: 2022-04-09T22:29:31+0530
+#+DRAFT: true
+#+LASTMOD: 2022-04-09T23:00:56+0530
+
+* Introduction
+
+The term /utility/ has had two distinct meanings in its long history. Jeremy
+Bentham opened his /Introduction to the Principles of Morals and
+Legislation/ with the famous sentence “Nature has placed mankind under
+the governance of two sovereign masters, pain and pleasure. It is for them
+alone to point out what we ought to do, as well as to determine what we
+shall do.” In an awkward footnote, Bentham apologized for applying the
+word /utility/ to these experiences, saying that he had been unable to find a
+better word. To distinguish Bentham’s interpretation of the term, I will call it
+/experienced utility/.
+
+For the last 100 years, economists have used the same word to mean
+something else. As economists and decision theorists apply the term, it
+means “wantability”—and I have called it /decision utility/. Expected utility
+theory, for example, is entirely about the rules of rationality that should
+govern decision utilities; it has nothing at all to say about hedonic
+experiences. Of course, the two concepts of utility will coincide if people
+want what they will enjoy, and enjoy what they chose for themselves—and
+this assumption of coincidence is implicit in the general idea that
+economic agents are rational. Rational agents are expected to know their
+tastes, both present and future, and they are supposed to make good
+decisions that will maximize these interests.
+
+* Experienced Utility
+
+My fascination with the possible discrepancies between experienced utility and decision utility goes back a long way. While Amos and I were still working on prospect theory, I formulated a puzzle, which went like this: imagine an individual who receives one painful injection every day. There is no adaptation; the pain is the same day to day. Will people attach the same value to reducing the number of planned injections from 20 to 18 as from 6 to 4? Is there any justification for a distinction?
+
+I did not collect data, because the outcome was evident. You can verify for yourself that you would pay more to reduce the number of injections by a third (from 6 to 4) than by one tenth (from 20 to 18). The decision utility of avoiding two injections is higher in the first case than in the second, and everyone will pay more for the first reduction than for the second. But this difference is absurd. If the pain does not change from day to day, what could justify assigning different utilities to a reduction of the total amount of pain by two injections, depending on the number of previous injections? In the terms we would use today, the puzzle introduced the idea that experienced utility could be measured by the number of injections. It also suggested that, at least in some cases, experienced utility is the criterion by which a decision should be assessed. A decision maker who pays different amounts to achieve the same gain of experienced utility (or be spared the same loss) is making a mistake. You may find this observation obvious, but in decision theory the only basis for judging that a decision is wrong is inconsistency with other preferences. Amos and I discussed the problem but we did not pursue it. Many years later, I returned to it.
+
+* Experience and Memory
+
+How can experienced utility be measured? How should we answer questions such as “How much pain did Helen suffer during the medical procedure?” or “How much enjoyment did she get from her 20 minutes on the beach?” The British economist Francis Edgeworth speculated about this topic in the nineteenth century and proposed the idea of a “hedonimeter,” an imaginary instrument analogous to the devices used in weather-recording stations, which would measure the level of pleasure or pain that an individual experiences at any moment.
+
+Experienced utility would vary, much as daily temperature or barometric pressure do, and the results would be plotted as a function of time. The answer to the question of how much pain or pleasure Helen experienced during her medical procedure or vacation would be the “area under the curve.” Time plays a critical role in Edgeworth’s conception. If Helen stays on the beach for 40 minutes instead of 20, and her enjoyment remains as intense, then the total experienced utility of that episode doubles, just as doubling the number of injections makes a course of injections twice as bad. This was Edgeworth’s theory, and we now have a precise understanding of the conditions under which his theory holds.
+
+TODO
+* Biology vs. Rationality
+
+The most useful idea in the injections puzzle that preoccupied me years
+ago was that the experienced utility of a series of equally painful injections
+can be measured, by simply counting the injections. If all injections are
+equally aversive, then 20 of them are twice as bad as 10, and a
+reduction from 20 to 18 and a reduction from 6 to 4 are equally valuable. If
+the decision utility does not correspond to the experienced utility, then
+something is wrong with the decision. The same logic played out in the
+cold-hand experiment: an episode of pain that lasts 90 seconds is worse
+than the first 60 seconds of that episode. If people willingly choose to
+endure the longer episode, something is wrong with their decision. In my
+early puzzle, the discrepancy between the decision and the experience
+originated from diminishing sensitivity: the difference between 18 and 20
+is less impressive, and appears to be worth less, than the difference
+between 6 and 4 injections. In the cold-hand experiment, the error reflects
+two principles of memory: duration neglect and the peak-end rule. The
+mechanisms are different but the outcome is the same: a decision that is
+not correctly attuned to the experience.
+
+Decisions that do not produce the best possible experience and
+erroneous forecasts of future feelings—both are bad news for believers in
+the rationality of choice. The cold-hand study showed that we cannot fully
+trust our preferences to reflect our interests, even if they are based on
+personal experience, and even if the memory of that experience was laid
+down within the last quarter of an hour! Tastes and decisions are shaped
+by memories, and the memories can be wrong. The evidence presents a
+profound challenge to the idea that humans have consistent preferences
+and know how to maximize them, a cornerstone of the rational-agent
+model. An inconsistency is built into the design of our minds. We have
+strong preferences about the duration of our experiences of pain and
+pleasure. We want pain to be brief and pleasure to last. But our memory, a
+function of System 1, has evolved to represent the most intense moment of
+an episode of pain or pleasure (the peak) and the feelings when the
+episode was at its end. A memory that neglects duration will not serve our
+preference for long pleasure and short pains.
+
+
+
+* Speaking of Two Selves
+
+- “You are thinking of your failed marriage entirely from the perspective of the remembering self. A divorce is like a symphony with a screeching sound at the end—the fact that it ended badly does not mean it was all bad.”
+- “This is a bad case of duration neglect. You are giving the good and the bad part of your experience equal weight, although the good part lasted ten times as long as the other.”

@@ -1,0 +1,58 @@
+#+TITLE: Chapter 32: Keeping Score
+#+DATE: 2022-04-09T21:41:09+0530
+#+DRAFT: true
+#+LASTMOD: 2022-04-09T22:06:25+0530
+
+* Introduction
+
+
+Except for the very poor, for whom income coincides with survival, the main
+motivators of money-seeking are not necessarily economic. For the
+billionaire looking for the extra billion, and indeed for the participant in an
+experimental economics project looking for the extra dollar, money is a
+proxy for points on a scale of self-regard and achievement. These rewards
+and punishments, promises and threats, are all in our heads. We carefully
+keep score of them. They shape our preferences and motivate our
+actions, like the incentives provided in the social environment. As a result,
+we refuse to cut losses when doing so would admit failure, we are biased
+against actions that could lead to regret, and we draw an illusory but sharp
+distinction between omission and commission, not doing and doing,
+because the sense of responsibility is greater for one than for the other.
+The ultimate currency that rewards or punishes is often emotional, a form
+of mental self-dealing that inevitably creates conflicts of interest when the
+individual acts as an agent on behalf of an organization.
+
+*key:* we tend to earn money. we keep score of everything, we are emotional on this issue
+
+* Mental Accounts
+
+Richard Thaler has been fascinated for many years by analogies between the world of accounting and the mental accounts that we use to organize and run our lives, with results that are sometimes foolish and sometimes very helpful. Mental accounts come in several varieties. We hold our money in different accounts, which are sometimes physical, sometimes only mental. We have spending money, general savings, earmarked savings for our children’s education or for medical emergencies. There is a clear hierarchy in our willingness to draw on these accounts to cover current needs. We use accounts for self-control purposes, as in making a household budget, limiting the daily consumption of espressos, or increasing the time spent exercising. Often we pay for self-control, for instance simultaneously putting money in a savings account and maintaining debt on credit cards. The Econs of the rational-agent model do not resort to mental accounting: they have a comprehensive view of outcomes and are driven by external incentives. For Humans, mental accounts are a form of narrow framing; they keep things under control and manageable by a finite mind.
+
+*key:* we keep mental accounts of many things.
+
+Mental accounts are used extensively to keep score. Recall that professional golfers putt more successfully when working to avoid a bogey than to achieve a birdie. One conclusion we can draw is that the best golfers create a separate account for each hole; they do not only maintain a single account for their overall success. An ironic example that Thaler related in an early article remains one of the best illustrations of how mental accounting affects behavior:
+
+#+BEGIN_VERSE
+Two avid sports fans plan to travel 40 miles to see a basketball game. One of them paid for his ticket; the other was on his way to purchase a ticket when he got one free from a friend. A blizzard is announced for the night of the game. Which of the two ticket holders is more likely to  brave the blizzard to see the game?
+#+END_VERSE
+
+The answer is immediate: we know that the fan who paid for his ticket is more likely to drive. Mental accounting provides the explanation. We assume that both fans set up an account for the game they hoped to see. Missing the game will close the accounts with a negative balance. Regardless of how they came by their ticket, both will be disappointed — but the closing balance is distinctly more negative for the one who bought a ticket and is now out of pocket as well as deprived of the game. Because staying home is worse for this individual, he is more motivated to see the game and therefore more likely to make the attempt to drive into a blizzard. These are tacit calculations of emotional balance, of the kind that System 1 performs without deliberation. The emotions that people attach to the state of their mental accounts are not acknowledged in standard economic theory. An Econ would realize that the ticket has already been paid for and cannot be returned. Its cost is “sunk” and the Econ would not care whether he had bought the ticket to the game or got it from a friend (if Econs have friends). To implement this rational behavior, System 2 would have to be aware of the counterfactual possibility: “Would I still drive into this snowstorm if I had gotten the ticket free from a friend?” It takes an active and disciplined mind to raise such a difficult question.
+
+Note: System 1 does calculations of emotional balance in mental account book to something or not. If mind is active and disciplined then System 2 activates to take right decision.
+
+A related mistake afflicts individual investors when they sell stocks from their portfolio:
+
+#+BEGIN_VERSE
+You need money to cover the costs of your daughter’s wedding and will have to sell some stock. You remember the price at which you bought each stock and can identify it as a “winner,” currently worth more than you paid for it, or as a loser. Among the stocks you own, Blueberry Tiles is a winner; if you sell it today you will have achieved a gain of $5,000. You hold an equal investment in Tiffany Motors, which is currently worth $5,000 less than you paid for it. The value of both stocks has been stable in recent weeks. Which are you more likely to sell? 
+#+END_VERSE
+
+A plausible way to formulate the choice is this: “I could close the Blueberry Tiles account and score a success for my record as an investor. Alternatively, I could close the Tiffany Motors account and add a failure to my record. Which would I rather do?” If the problem is framed as a choice between giving yourself pleasure and causing yourself pain, you will certainly sell Blueberry Tiles and enjoy your investment prowess. As might be expected, finance research has documented a massive preference for selling winners rather than losers—a bias that has been given an opaque label: the disposition effect.
+
+TODO
+
+* Speaking of Keeping Score
+
+- “He has separate mental accounts for cash and credit purchases. I constantly remind him that money is money.”
+- “We are hanging on to that stock just to avoid closing our mental account at a loss. It’s the disposition effect.”
+- “We discovered an excellent dish at that restaurant and we never try anything else, to avoid regret.”
+- “The salesperson showed me the most expensive car seat and said it was the safest, and I could not bring myself to buy the cheaper model. It felt like a taboo tradeoff.”

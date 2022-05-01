@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/subjects/productivity/books/</loc>
-    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
-    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</loc>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/</loc>
-    <lastmod>2022-03-26T21:38:10+05:30</lastmod>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/</loc>
-    <lastmod>2022-03-27T12:26:49+05:30</lastmod>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
+    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</loc>
+    <lastmod>2022-04-09T22:27:53+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</loc>
+    <lastmod>2022-04-09T22:06:25+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch31-risk_policies/</loc>
     <lastmod>2022-03-26T21:38:10+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch14-subjugation-lifetrap/</loc>
@@ -203,13 +212,7 @@
   </url><url>
     <loc>http://example.org/subjects/psychology/books/reinventing-your-life/ch02-which-lifetraps-do-you-have/</loc>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch32-keeping_score/</loc>
-  </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch33-reversals/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch36-life_as_a_story/</loc>
   </url><url>

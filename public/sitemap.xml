@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/subjects/productivity/books/</loc>
-    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</loc>
-    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch25-bernoulli-s_errors/</loc>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/</loc>
-    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/</loc>
-    <lastmod>2022-04-09T23:00:56+05:30</lastmod>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/</loc>
+    <lastmod>2022-05-08T18:51:58+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch35-two_selves/</loc>
     <lastmod>2022-04-09T23:00:56+05:30</lastmod>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch34-frames_and_reality/</loc>
@@ -199,8 +202,6 @@
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch23-the_outside_view/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch24-the_engine_of_capitalism/</loc>
-  </url><url>
-    <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch25-bernoulli-s_errors/</loc>
   </url><url>
     <loc>http://example.org/subjects/productivity/books/thinking-fast-and-slow/ch26-prospect_theory/</loc>
   </url><url>
